@@ -1,9 +1,9 @@
-# Flask Package
+# Lorem Ipsum Generator
 
-Create a flask app as a package and a run script to actually run the application
+A simple lorem ipsum generator using Flask
 
 ## Setup
-* `mkvirtualenv -p python3 flask-package`
+* `mkvirtualenv -p python3 lorem-ipsum`
 * `pip install -r requirements.txt`
 
 ## Run the flask app
