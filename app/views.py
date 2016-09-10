@@ -5,7 +5,6 @@ from app import app
 from app.lib.lorem import Lorem
 
 @app.route("/")
-@app.route("/index")
 def index():
     """
     Opens a file with lorem ipsum words in it.
